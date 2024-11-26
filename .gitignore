@@ -1,0 +1,14 @@
+# Ignorar o arquivo .env que contém variáveis sensíveis
+.env
+
+# Ignorar diretórios de cache do Python
+__pycache__
+
+# Ignorar ambientes virtuais criados com venv
+.venv
+
+# Ignorar outro diretório de ambiente virtual (caso exista)
+myenv
+
+# Ignorar arquivos de testes específicos (como tests-usuarios.py)
+tests-usuarios.py
